@@ -1,2 +1,2 @@
 # Undercity
-An animation with sound an visual effects
+An animation with sound and visual effects
